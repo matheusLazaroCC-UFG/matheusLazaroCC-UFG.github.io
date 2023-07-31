@@ -23,7 +23,7 @@ Sou <a href="#">Matheus Lázaro</a>, estudante e entusiasta de tecnologia. Este 
 </p>
 
 <p align="center">
-  <img style="width:100px;" src="https://avatars.githubusercontent.com/u/117959624?s=200&v=4" alt="Imagem do Projeto 1" width="400">
+  <img style="width:200px;" src="https://docs.google.com/uc?id=1n5MXEVAsesx5W4zbO1hgXd-t4iVb4MDh" alt="Imagem do Projeto 1" width="400">
 </p>
 
 <ul>
@@ -41,7 +41,7 @@ Sou <a href="#">Matheus Lázaro</a>, estudante e entusiasta de tecnologia. Este 
 </p>
 
 <p align="center">
-  <img style="width:100px;" src="https://avatars.githubusercontent.com/u/140438072?s=200&v=4" alt="Imagem do Projeto 2" width="400">
+  <img style="width:200px;" src="https://avatars.githubusercontent.com/u/140438072?s=200&v=4" alt="Imagem do Projeto 2" width="400">
 </p>
 
 <ul>
@@ -61,7 +61,7 @@ Sou <a href="#">Matheus Lázaro</a>, estudante e entusiasta de tecnologia. Este 
 </p>
 
 <p align="center">
-  <img style="width:100px;" src="https://lp.jetbrains.com/static/2022/01/10/155557-0.46852142.png" alt="Imagem do Projeto 2" width="400">
+  <img style="width:200px;" src="https://lp.jetbrains.com/static/2022/01/10/155557-0.46852142.png" alt="Imagem do Projeto 2" width="400">
 </p>
 
 <ul>
@@ -91,7 +91,7 @@ Sou <a href="#">Matheus Lázaro</a>, estudante e entusiasta de tecnologia. Este 
 <h4>5. Lambda Calculus</h4>
 
 <p align="center">
-  <img style="width:100px;" src="https://coursera-university-assets.s3.amazonaws.com/d8/b56970e03e11e5b08f85a2edf0fe5f/logo_ita--Squared--360x360.png" alt="Imagem do Projeto 2" width="400">
+  <img style="width:200px;" src="https://coursera-university-assets.s3.amazonaws.com/d8/b56970e03e11e5b08f85a2edf0fe5f/logo_ita--Squared--360x360.png" alt="Imagem do Projeto 2" width="400">
 </p>
 
 <ul>
