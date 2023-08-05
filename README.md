@@ -183,7 +183,3 @@ Sou <a href="#">Matheus Lázaro</a>, estudante e entusiasta de tecnologia. Este 
 <p align="center">
   <a href="https://www.linkedin.com/in/matheus-l%C3%A1zaro-244957b8/">LinkedIn</a> |
 </p>
-
-
-_________________
-<div style="width:100%;display:flex;flex-direction:column;gap:8px;min-height:635px;"><iframe src="https://quizizz.com/embed/quiz/64cea9c2f30d400008e82d3c" title="The Blockchain tecnology - Quizizz" style="flex:1;" frameBorder="0" allowfullscreen></iframe><a href="https://quizizz.com/admin?source=embedFrame" target="_blank">Explore more at Quizizz.</a></div>
